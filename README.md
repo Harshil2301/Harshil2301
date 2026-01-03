@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm Harshil 👋
 
-<!--
-**Harshil2301/Harshil2301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Computer Science Engineering student with a strong interest in Cybersecurity, SOC operations, and web security.
 
-Here are some ideas to get you started:
+Currently focusing on:
+- Security fundamentals and SOC concepts
+- Web vulnerability assessment
+- Security documentation and reporting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Academic Projects:
+- Zer0n – Rule-based web vulnerability assessment (Major Project)
+- FNA.AI – Frontend development for fake news analysis platform
+
+Currently maintaining:
+- TryHackMe Advent of Cyber (hands-on security learning)
+
+Actively seeking cybersecurity internship opportunities.
